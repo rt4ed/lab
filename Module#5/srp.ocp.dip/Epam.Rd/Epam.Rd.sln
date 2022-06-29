@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Rd.Application", "Epam.Rd.Application\Epam.Rd.Application.csproj", "{BB2B55A3-5334-4D8F-A5B4-DB179B6E7F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2B55A3-5334-4D8F-A5B4-DB179B6E7F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2B55A3-5334-4D8F-A5B4-DB179B6E7F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2B55A3-5334-4D8F-A5B4-DB179B6E7F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2B55A3-5334-4D8F-A5B4-DB179B6E7F21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

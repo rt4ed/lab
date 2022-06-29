@@ -1,0 +1,13 @@
+Patent
+    Patent			01.01.2002 0:00:00
+1
+
+Book
+CLR via C#			01.01.2000 0:00:00
+Book of recipes			01.01.2000 0:00:00
+2
+
+Newspaper
+       CLR			01.01.2001 0:00:00
+1
+
